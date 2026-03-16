@@ -9,3 +9,4 @@ export default function RegisterScreen() {
       <Button title="Create Account" onPress={() => {}} />
     </View>
   );
+}
